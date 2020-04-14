@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CloudWall
+  - Wall
+  - footMan1
+  - footMan2
+  - footMan3
+  - footMan4
+  - footMan1_2
+  - footMan1_3
+  - footMan1_4
+  - footMan2_1
+  - footMan2_3
+  - footMan2_4
+  - footMan3_1
+  - footMan3_2
+  - footMan3_4
+  - footMan4_1
+  - footMan4_2
+  - footMan4_3
+  - Button
+  - obiekt1
+  - b1
+  - b2
+  - sheep
+  - dragon
+  - Wall2
+  - Wall3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
