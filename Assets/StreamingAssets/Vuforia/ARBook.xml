@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="scn7" size="4.000000 3.734060" />
+    <ImageTarget name="scn6" size="4.000000 6.793509" />
+    <ImageTarget name="scn5" size="4.000000 3.830135" />
+    <ImageTarget name="scn4" size="4.000000 3.036963" />
+    <ImageTarget name="scn3" size="4.000000 6.318972" />
+    <ImageTarget name="scn2" size="4.000000 2.231827" />
+    <ImageTarget name="scn1" size="4.000000 5.006655" />
+  </Tracking>
+</QCARConfig>
